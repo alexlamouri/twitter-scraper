@@ -1,4 +1,4 @@
-# TwitterScraper
+# twitter-scraper
 
 ## Description
 
